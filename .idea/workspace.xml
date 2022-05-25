@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f190f38f-4eb8-48c2-9b56-37749f4da487" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28ynEkRj0HEd89WgnvnwBgzBmx7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\fasterrcnn\faster_rcnn_pilipala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.change_backbone_with_fpn">
+    <configuration name="change_backbone_with_fpn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster_rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/change_backbone_with_fpn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change_backbone_without_fpn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster_rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/change_backbone_without_fpn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster_rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster_rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_mobilenetv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="faster_rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_mobilenetv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.change_backbone_with_fpn" />
+        <item itemvalue="Python.change_backbone_without_fpn" />
+        <item itemvalue="Python.train_mobilenetv2" />
+        <item itemvalue="Python.my_dataset" />
+        <item itemvalue="Python.predict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f190f38f-4eb8-48c2-9b56-37749f4da487" name="默认更改列表" comment="" />
+      <created>1652197583889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652197583889</updated>
+      <workItem from="1652197587891" duration="64646000" />
+      <workItem from="1652592549884" duration="1851000" />
+      <workItem from="1652636455588" duration="26067000" />
+      <workItem from="1653058905921" duration="26000" />
+      <workItem from="1653245345524" duration="11665000" />
+      <workItem from="1653376839543" duration="15410000" />
+      <workItem from="1653413748690" duration="5413000" />
+      <workItem from="1653419332943" duration="28200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652986389540">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="527" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.874@0.0.1463.874" timestamp="1652986389540" />
+    <state x="462" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652255756537">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="462" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.874@0.0.1463.874" timestamp="1652255756537" />
+    <state x="278" y="190" key="FileChooserDialogImpl" timestamp="1653414739438">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="278" y="190" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1653414739438" />
+    <state width="1420" height="242" key="GridCell.Tab.0.bottom" timestamp="1653494371760">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="242" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1653494371760" />
+    <state width="1420" height="242" key="GridCell.Tab.0.center" timestamp="1653494371760">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="242" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1653494371760" />
+    <state width="1420" height="242" key="GridCell.Tab.0.left" timestamp="1653494371759">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="242" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1653494371759" />
+    <state width="1420" height="242" key="GridCell.Tab.0.right" timestamp="1653494371760">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="242" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1653494371760" />
+    <state width="1420" height="281" key="GridCell.Tab.1.bottom" timestamp="1652440366901">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1652440366901" />
+    <state width="1420" height="281" key="GridCell.Tab.1.center" timestamp="1652440366901">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1652440366901" />
+    <state width="1420" height="281" key="GridCell.Tab.1.left" timestamp="1652440366901">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1652440366901" />
+    <state width="1420" height="281" key="GridCell.Tab.1.right" timestamp="1652440366901">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="281" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1652440366901" />
+    <state x="0" y="77" key="SettingsEditor" timestamp="1653245688357">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="0" y="77" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1653245688357" />
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1652239477437">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1652239477437" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$train_res50_fpn.coverage" NAME="train_res50_fpn Coverage Results" MODIFIED="1652671117492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$validation.coverage" NAME="validation Coverage Results" MODIFIED="1653416702144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$summary.coverage" NAME="summary Coverage Results" MODIFIED="1653418724543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$my_dataset.coverage" NAME="my_dataset Coverage Results" MODIFIED="1653484181428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$change_backbone_with_fpn.coverage" NAME="change_backbone_with_fpn Coverage Results" MODIFIED="1653494371755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$resnet50_fpn_model.coverage" NAME="resnet50_fpn_model Coverage Results" MODIFIED="1653406561496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backbone" />
+    <SUITE FILE_PATH="coverage/faster_rcnn$change_backbone_without_fpn.coverage" NAME="change_backbone_without_fpn Coverage Results" MODIFIED="1652458904412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn$split_data.coverage" NAME="split_data Coverage Results" MODIFIED="1652255696019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn$my_dataset.coverage" NAME="my_dataset Coverage Results" MODIFIED="1652440399229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn$transform.coverage" NAME="transform Coverage Results" MODIFIED="1652374028595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_files" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$predict.coverage" NAME="predict Coverage Results" MODIFIED="1653470302611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$change_backbone_without_fpn.coverage" NAME="change_backbone_without_fpn Coverage Results" MODIFIED="1653493409107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faster_rcnn_pilipala$train_mobilenetv2.coverage" NAME="train_mobilenetv2 Coverage Results" MODIFIED="1653493403501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
